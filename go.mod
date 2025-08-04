@@ -1,4 +1,4 @@
-module gofiber-template
+module github.com/nkapila6/gofiber-template
 
 go 1.24.5
 
